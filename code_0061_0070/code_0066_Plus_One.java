@@ -1,6 +1,6 @@
 package leetcode.code_0061_0070;
 
-public class code_0066_Plus_One {
+public class Code_0066_Plus_One {
     public static void main(String[] args) {
         int[] result = Solution.plusOne(new int[]{1, 2, 3});
         for (int i : result) {

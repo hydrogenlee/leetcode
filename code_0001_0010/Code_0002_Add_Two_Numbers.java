@@ -1,9 +1,5 @@
 package leetcode.code_0001_0010;
 
-import sun.util.resources.is.LocaleNames_is;
-
-import java.util.List;
-
 public class Code_0002_Add_Two_Numbers {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2);
@@ -59,7 +55,7 @@ public class Code_0002_Add_Two_Numbers {
         }
     }
 
-    public static class ListNode {
+    private static class ListNode {
         int val;
         ListNode next;
         ListNode(int x) { val = x; }
