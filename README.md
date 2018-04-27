@@ -6,7 +6,9 @@ ___________________________
 1.  code_0001_0010
     * Code1: [Two Sum](code_0001_0010/Code_0001_Two_Sum.java)
     * Code2: [Add Two Numbers](code_0001_0010/Code_0002_Add_Two_Numbers.java)
-    * Code3: [Longest Substring Without Repeating Characters](code_0001_0010/code_0003_Longest_Substring_Without_Repeating_Characters.java)
+    * Code3: [Longest Substring Without Repeating Characters](code_0001_0010/Code_0003_Longest_Substring_Without_Repeating_Characters.java)
+    * Code5: [Longest Palindromic Substring](code_0001_0010/Code_0005_Longest_Palindromic_Substring.java)
+    * Code6: [ZigZag Conversion](code_0001_0010/Code_0006_ZigZag_Conversion.java)
     * Code7: [Reverse Integer](code_0001_0010/Code_0007_Reverse_Integer.java)
     * Code9: [Palindrome Number](code_0001_0010/Code_0009_Palindrome_Number.java)
 2.  code_0011_0020
