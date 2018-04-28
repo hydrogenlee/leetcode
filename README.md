@@ -7,10 +7,13 @@ ___________________________
     * Code1: [Two Sum](code_0001_0010/Code_0001_Two_Sum.java)
     * Code2: [Add Two Numbers](code_0001_0010/Code_0002_Add_Two_Numbers.java)
     * Code3: [Longest Substring Without Repeating Characters](code_0001_0010/Code_0003_Longest_Substring_Without_Repeating_Characters.java)
+    * Code4: [Median of Two Sorted Arrays](code_0001_0010/Code_0004_Median_of_Two_Sorted_Arrays.java)
     * Code5: [Longest Palindromic Substring](code_0001_0010/Code_0005_Longest_Palindromic_Substring.java)
     * Code6: [ZigZag Conversion](code_0001_0010/Code_0006_ZigZag_Conversion.java)
     * Code7: [Reverse Integer](code_0001_0010/Code_0007_Reverse_Integer.java)
+    * Code8: [String to Integer (atoi)](code_0001_0010/Code_0008_String_to_Integer.java)
     * Code9: [Palindrome Number](code_0001_0010/Code_0009_Palindrome_Number.java)
+    * Code10: [Regular Expression Matching](code_0001_0010/Code_0010_Regular_Expression_Matching.java)
 2.  code_0011_0020
     * Code13: [Roman to Integer](code_0011_0020/Code_0013_Roman_to_Integer.java)
     * Code14: [Longest Common Prefix](code_0011_0020/Code_0014_Longest_Common_Prefix.java)
