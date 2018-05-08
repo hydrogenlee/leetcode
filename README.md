@@ -38,6 +38,9 @@ ___________________________
     * Code30: [Substring with Concatenation of All Words](code_0021_0030/Code_0030_Substring_with_Concatenation_of_All_Words.java)
 4.  code_0031_0040
     * Code31: [Next Permutation](code_0031_0040/Code_0031_Next_Permutation.java)
+    * Code32: [Longest Valid Parentheses](code_0031_0040/Code_0032_Longest_Valid_Parentheses.java)
+    * Code33: [Search in Rotated Sorted Array](code_0031_0040/Code_0033_Search_in_Rotated_Sorted_Array.java)
+    * Code34: [Search for a Range](code_0031_0040/Code_0034_Search_for_a_Range.java)
     * Code35: [Search Insert Position](code_0031_0040/Code_0035_Search_Insert_Position.java)
     * Code38: [Count and Say](code_0031_0040/Code_0038_Count_and_Say.java)
     * Code39: [Combination Sum](code_0031_0040/Code_0039_Combination_Sum.java)
