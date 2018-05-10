@@ -42,6 +42,8 @@ ___________________________
     * Code33: [Search in Rotated Sorted Array](code_0031_0040/Code_0033_Search_in_Rotated_Sorted_Array.java)
     * Code34: [Search for a Range](code_0031_0040/Code_0034_Search_for_a_Range.java)
     * Code35: [Search Insert Position](code_0031_0040/Code_0035_Search_Insert_Position.java)
+    * Code36: [Valid Sudoku](code_0031_0040/Code_0036_Valid_Sudoku.java)
+    * Code37: [Sudoku Solver](code_0031_0040/Code_0037_Sudoku_Solver.java)
     * Code38: [Count and Say](code_0031_0040/Code_0038_Count_and_Say.java)
     * Code39: [Combination Sum](code_0031_0040/Code_0039_Combination_Sum.java)
 5.  code_0041_0050
