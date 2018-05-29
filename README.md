@@ -46,7 +46,10 @@ ___________________________
     * Code37: [Sudoku Solver](code_0031_0040/Code_0037_Sudoku_Solver.java)
     * Code38: [Count and Say](code_0031_0040/Code_0038_Count_and_Say.java)
     * Code39: [Combination Sum](code_0031_0040/Code_0039_Combination_Sum.java)
+    * Code40: [Combination Sum II](code_0031_0040/Code_0040_Combination_Sum_II.java)
 5.  code_0041_0050
+    * Code41: [First Missing Positive](code_0041_0050/Code_0041_First_Missing_Positive.java)
+    * Code42: [Trapping Rain Water](code_0041_0050/Code_0042_Trapping_Rain_Water.java)
 6.  code_0051_0060
     * Code53: [Maximum Subarray](code_0051_0060/Code_0053_Maximum_Subarray.java)
     * Code58: [Length of Last Word](code_0051_0060/Code_0058_Length_of_Last_Word.java)

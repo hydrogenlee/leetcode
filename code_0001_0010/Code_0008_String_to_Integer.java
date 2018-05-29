@@ -23,6 +23,9 @@ public class Code_0008_String_to_Integer {
 
     static class Solution {
         public static int myAtoi(String str) {
+            if (str == null) {
+                return 0;
+            }
             int index = 0;
             // 删除空格
             while (index < str.length() && str.charAt(index) == ' ') {
